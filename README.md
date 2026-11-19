@@ -22,7 +22,7 @@ Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovell
 
 Esimerkki kuvan lisäämisestä:
 
-![Rautalankamalli](images/img/rautalankamalli.jpg)
+![Rautalankamalli](images/rautalankamalli.jpg)
 
 ## Verkkolinkit
 
