@@ -28,7 +28,7 @@ Esimerkki kuvan lisäämisestä:
 
 - **Julkaistu sovellus:** [Lisää tähän GitHub Pages -osoite](https://jon-code-87.github.io/Web_development_-Projekti_3/index.html)
 - **GitHub-repositorio:** [Lisää tähän repositorion osoite](https://github.com/Jon-code-87/Web_development_-Projekti_3)
-- **Projektin videoesittely:** [Lisää tähän videon osoite](https://example.com/)
+- **Projektin videoesittely:** [Lisää tähän videon osoite](https://video.laurea.fi/media/Projekti3+demo/0_wdn3gw7p)
 
 ## Tietoja sovelluksesta
 
