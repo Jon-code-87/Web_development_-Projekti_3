@@ -1,20 +1,20 @@
 # Projektin nimi
 
-**Tekijä(t):** Kirjoita tähän oma nimesi / tekijöiden nimet
+**Tekijä(t):** Juha Korhonen / Jon Mattila
 
 ## Projektisuunnitelma
 
 ### Projektin idea
 
-Kuvaile lyhyesti, mitä sovelluksesi tekee ja kenelle se on tarkoitettu.
+Sovellus näyttää 50 viimeisintä pelijulkaisua avatessa ja käyttäjä voi hakea pelejä käyttämällä hakutoimintoja.
 
 ### Suunnitellut toiminnot
 
 Listaa vähintään kolme sovellukseesi suunniteltua toimintoa:
 
-- Toiminto 1
-- Toiminto 2
-- Toiminto 3
+- Näyttää sivun auetessa 50 viimeisintä pelijulkaisua.
+- Käyttäjä voi hakea pelejä hakutoiminnolla.
+- Käyttäjä voi siirtyä pelin sivulle linkistä.
 
 ### Rautalankamalli / luonnos
 
@@ -22,7 +22,7 @@ Lisää tähän kuva käsin piirtämästäsi tai digitaalisesti tehdystä sovell
 
 Esimerkki kuvan lisäämisestä:
 
-![Rautalankamalli](img/wireframe.png)
+![Rautalankamalli](images/img/rautalankamalli.jpg)
 
 ## Verkkolinkit
 
